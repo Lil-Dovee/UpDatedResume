@@ -14,7 +14,7 @@
     border-radius: 30%;
  } 
 .hero-image{
-    background-image: url(/HNG/mountain.jpg);
+    background-image: url(mountain.jpg);
     background-size: cover;
     position: relative;
     height: 550px;
@@ -76,7 +76,6 @@ mark{
   font-weight: 600;
   font-size: 20px;
   margin-bottom: 0.8em;
-  /* text-shadow: 7px; */
 }
 .education li, .contact p, .course li, .skills li{
     font-family: 'Lexend Deca', sans-serif;
@@ -97,13 +96,11 @@ li::marker{
     }
     .icons{
         margin-top: 27em;
-        /* margin-top: 29em; */
     }
     .details{
         display: grid;
     }
     .hero-text{
-        /* top: 30%; */
         top: 25%;
     }
     .info{
