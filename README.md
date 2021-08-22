@@ -2,7 +2,7 @@
 My Resume
 
 
-LIVE-LINK:
+LIVE-LINK: https://lil-dovee.github.io/UpDatedResume/
 
 RESUME-LINK:
 
